@@ -21,5 +21,4 @@
 - PHP
 
 -----
-#### I'm learning now more about **Web Development** and practising it a lot
 ### Will work **Web Developer** soon  :man_technologist:
