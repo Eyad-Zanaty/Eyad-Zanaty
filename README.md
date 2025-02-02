@@ -2,7 +2,7 @@
 
 #### My name is Eyad  :grinning:
 
-#### I'm a secondary Egyptian student :student:
+#### I'm an Egyptian Programmer :computer:
 
 ### I studied :
 - C++ :mechanical_leg:
