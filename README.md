@@ -4,21 +4,16 @@
 
 #### I'm a secondary Egyptian student :student:
 
-### I studied two different programming languages :
+### I studied :
 - C++ :mechanical_leg:
-- Python :snake:
-
-### I studied also ( *I working hard now on practising it* ) :
 - Html :memo:
 - CSS :art:
+- Python :snake:
  
 ### FrameWorks I use them now :
 - Bootstrap :heavy_check_mark:
+- Django REST Framework :books:
 
-### Will learn :horse_racing:
-- JS
-- Jquery              
-- PHP
 
 -----
-### Will work **Web Developer** soon  :man_technologist:
+### Will work **Back-end Developer** soon  :man_technologist:
